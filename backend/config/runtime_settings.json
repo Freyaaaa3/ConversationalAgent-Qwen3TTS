@@ -1,0 +1,6 @@
+{
+  "use_flash_attention": false,
+  "use_4bit": false,
+  "use_torch_compile": false,
+  "ollama_model": "deepseek-r1:8b"
+}
